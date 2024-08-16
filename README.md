@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Simple-app, is just a simple react project.
+I made use of npx-create react-app using typescript template.
+I installed apollo client for the implimentation of GraphQL API
+I made use of mock api, which hit and imaginary database
+
+On the landing page, is a form which requires all fields to be field using formik and yup once successfully it redirects to the user page.
+where the list of all users are and can view further details of a clicked user (user-details) which is a child component to the user (parent).
+
